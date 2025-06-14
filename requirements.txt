@@ -1,0 +1,9 @@
+requests==2.32.4
+beautifulsoup4==4.13.4
+PyPDF2==3.0.1
+scikit-learn==1.7.0
+numpy==2.3.0
+gradio==5.34.0
+lxml==5.4.0
+sentence-transformers==4.1.0
+faiss_cpu==1.11.0

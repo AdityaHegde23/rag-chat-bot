@@ -1,0 +1,72 @@
+URL: https://www.angelone.in/support/margin-pledging-and-margin-trading-facility
+Title: Guide on Available Trading Margin & How to Optimise in Angel One?
+==================================================
+
+We are here to help you
+Quick Links (10)
+Track Application Status
+Know how to track your account opening application status on Angel One application
+Learn More
+Segment Activation Process
+Learn how to activate F&O, Commodity and Currency segments on Angel One
+Learn More
+Fund Payout Status
+Know all about fund payout/withdrawal process
+Learn More
+Check Order Status
+Learn how to check the status of your order in Angel One app
+Learn More
+Brokerage and Charges
+Know all about the brokerage and charges applicable on your trades
+Learn More
+Fund Addition
+Step by step guide to add funds to your Angel One account
+Learn More
+Bank Account Addition
+Know the process add a new bank account to Angel One
+Learn More
+Profile Modification
+Learn how to modify mobile number, Email ID and other profile details in Angel One
+Learn More
+DDPI (POA) process
+Learn how to activate DDPI and the benefits associated with it
+Learn More
+Refer and Earn
+Know about how refer and earn works on Angel One
+Learn More
+En.
+ही.
+Available Margin to Trade
+Available Margin to Trade
+Margin Pledge/Unpledge
+Margin Trading Facility
+Where can I see my account balance?
+Tap on Account at the bottom of your screen
+Trading balance is shown at on the card at the top of the page
+Click on Trading balance card to view more details about the funds
+What is my Available Margin to Trade?
+Available Margin to Trade consists of your Funds balance & margin against eligible holdings.
+How to increase my Available Margin to Trade?
+You can increase your Available Margin to Trade by adding Funds or by creating a Margin Pledge against your eligible holdings in Accounts -> Stock Pledging.
+What is Peak Margin requirement?
+Peak Margin is the minimum margin that must be collected by brokers from their clients in advance of placing any intraday / delivery order.
+What is Peak Margin Shortfall?
+Peak Margin shortfall occurs when you buy a share from 80% margin released against delivery sell transactions and such sell position is subsequently bought back.
+You will be charged a penalty if margin shortfall is due to insufficient margin.
+I want to know how much cash is mine and how much is on margin?
+You can check your available cash and margin by visiting Account → Trading balance
+screen on web or mobile app. Here you will see the Cash balance and the margins from
+pledge holdings
+Still need help?
+Create Ticket
+Want to connect with us?
+Our experts will be happy to assist you
+Connect with us
+Still have any queries? Connect with our support team.
+CONTACT US
+Partnership Request
+For any partnership requests please reach us at
+partners@angelbroking.com
+Media Queries
+022-40003600(Extn: 6925)
+EMAIL US

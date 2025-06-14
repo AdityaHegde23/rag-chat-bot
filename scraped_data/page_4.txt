@@ -1,0 +1,88 @@
+URL: https://www.angelone.in/support/your-account
+Title: How to Submit Family Declaration? Managing Angel One Account
+==================================================
+
+We are here to help you
+Quick Links (10)
+Track Application Status
+Know how to track your account opening application status on Angel One application
+Learn More
+Segment Activation Process
+Learn how to activate F&O, Commodity and Currency segments on Angel One
+Learn More
+Fund Payout Status
+Know all about fund payout/withdrawal process
+Learn More
+Check Order Status
+Learn how to check the status of your order in Angel One app
+Learn More
+Brokerage and Charges
+Know all about the brokerage and charges applicable on your trades
+Learn More
+Fund Addition
+Step by step guide to add funds to your Angel One account
+Learn More
+Bank Account Addition
+Know the process add a new bank account to Angel One
+Learn More
+Profile Modification
+Learn how to modify mobile number, Email ID and other profile details in Angel One
+Learn More
+DDPI (POA) process
+Learn how to activate DDPI and the benefits associated with it
+Learn More
+Refer and Earn
+Know about how refer and earn works on Angel One
+Learn More
+En.
+ही.
+Family Declaration
+Family Declaration
+Opening Your Account
+Account Settings
+Subscription Plans
+Other Services
+KYC Queries
+Account Activation
+Closing Your Account
+MPIN and Fingerprint
+MTF Activation/Deactivation
+View and Update Profile
+Segment Activation
+What is family declaration?
+As per regulatory requirement, every KYC account should have a separate and unique mobile number and email address . In case if account holder wishes to use common email Id/ Mobile number for more than one account of family, it can be done after submitting a written declaration giving required details and duly signed by people involved.
+What relationships are permitted as per SEBI to be considered as family for this purpose?
+Family for this purpose has been defined by SEBI as self, spouse, dependent parents and dependent children (in case of individual account holders)
+What relationship can be given for clients having no- individual category of account such as company, trust, HUF, AOP etc.
+In case of non-individual category of account, if common email id/mobile number is used for more than one account then relationship can be defined as “Authorised Signatory” and the supporting needs to be submitted along with declaration such as Board resolution copy, trust/partnership deed or other such officially valid document approved giving detalils of authorized persons.
+Are siblings or other relationships such as daughter-in-law, son-in-law allowed for considering family for this purpose?
+No. Only SEBI defined relationships of self, spouse, dependent parents and dependent children are allowed to be considered as family for this purpose. Anything else apart from this is not allowed.
+What if the client is found to be using the common email id/mobile number without allowable relationship?
+Such account will be considered as invalid KYC accounts and will be suspended in both trading and demat account till the time unique valid KYC credentials are updated.
+How can the client change their email ID and/or Mobile number to avoid non-compliance?
+Modification request can be submitted to change the mobile number/email ID by submitting request from the profile page of client’s account login.
+Where can a client find the Family Declaration Form?
+Client can download the Family Declaration Form from
+here
+.
+Send the duly signed scan copy on
+support@angelbroking.com
+.  Hard copy of declaration can be sent at below mentioned address.
+Angel One Limited.
+5th Floor Akruti Star Andheri (E)
+Mumbai- 400 093
+Who needs to sign the Family Declaration Form?
+The client who wants to use common email Id/ Mobile number, will mention the demat and trading account details and sign at the bottom of the page. If the demat account has more than one holder, all the holders will sign at respective place. The person who is Sellf (whose email id /mobile number is used will sign at the place “Signature of the related person”.
+Still need help?
+Create Ticket
+Want to connect with us?
+Our experts will be happy to assist you
+Connect with us
+Still have any queries? Connect with our support team.
+CONTACT US
+Partnership Request
+For any partnership requests please reach us at
+partners@angelbroking.com
+Media Queries
+022-40003600(Extn: 6925)
+EMAIL US
